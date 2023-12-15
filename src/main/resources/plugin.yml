@@ -1,0 +1,4 @@
+name: spigot_navigator
+version: '${version}'
+main: be.dailysurvival.spigot_navigator.Spigot_navigator
+api-version: '1.20'
